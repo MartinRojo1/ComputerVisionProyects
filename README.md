@@ -17,6 +17,6 @@ In my Computer Vision projects, I have used the following tools and technologies
 ### Additional resources
 If you're interested in learning more about Computer Vision, here are some additional resources you can check out:
 
-• Anyone AI Bootcamp
+• Anyone AI Bootcamp.
 
 If you have any questions or comments about my projects at Computer Vision, feel free to contact me. Thank you for visiting my Computer Vision section!
